@@ -17,7 +17,7 @@ elif oferta3 < oferta1 and oferta3 < oferta2:
      print('la oferta 3 es la mas baja')    
 
 else: 
-    print('Todas las ofertas son iguales')     
+    print('Todas las ofertas son igual')     
 
 
     
